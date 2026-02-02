@@ -9,7 +9,7 @@ The interactive workshops should be done in **pairs** or **groups** to encourage
 Each interactive workshop should correspond to the topic of the lesson workshop so it allows members to **apply** the lesson they just learned.
 
 ## Getting started
-- Fork this repo onto your own system 
+- Fork this repo to make a new copy
 - Git clone the forked repo into a folder you want 
 - cd into the workshop you want Run npm install 
 - Then finally run npm run dev 

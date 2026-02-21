@@ -40,5 +40,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# solutions (hidden from students until needed)
-/src/app/solution/
+

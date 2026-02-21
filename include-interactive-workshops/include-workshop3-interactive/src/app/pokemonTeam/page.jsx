@@ -16,6 +16,8 @@ export default function PokemonPage() {
         <div className={styles.pokemonCards}>
           {/*Insert .map function here!*/}
 
+          {/* yourData.filter(...some condition...).map(....some function to render smtg....) */}
+
           {/* Example skeleton:
           {yourData.map((item) => (
             <div key={ *unique key* } className={styles.card}>

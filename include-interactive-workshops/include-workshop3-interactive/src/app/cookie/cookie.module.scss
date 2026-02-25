@@ -1,0 +1,14 @@
+// You don't need to change anything here
+
+.cookie {
+    width: 400px;
+    height: 400px;
+    position: relative;
+
+    overflow: hidden;
+    transition: transform 0.1s ease, box-shadow 0.1s ease;
+    transform-origin: center;
+}
+.cookie:active {
+    transform: scale(0.95);
+}
